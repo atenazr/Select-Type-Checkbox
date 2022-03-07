@@ -1,6 +1,8 @@
 # Select-Type-Checkbox
 a checkbox group with the functionality to view sub-items of checkbox label if it is checked.
 
+![demo](https://github.com/atenazr/Select-Type-Checkbox/blob/main/demo/2.jpg)
+
 ## Installation
 
 install the package manager [npm](https://nodejs.org/en/download/).
